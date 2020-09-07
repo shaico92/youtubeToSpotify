@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="123321" started-at="2019-08-26T18:01:53Z" finished-at="2019-08-26T18:03:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="123321" started-at="2019-08-26T18:01:53Z" finished-at="2019-08-26T18:03:57Z">
+      <class name="excecute.com.Exceuter">
+        <test-method status="PASS" signature="youtubeExtract()[pri:0, instance:excecute.com.Exceuter@573f2bb1]" name="youtubeExtract" is-config="true" duration-ms="43745" started-at="2019-08-26T21:01:53Z" finished-at="2019-08-26T21:02:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- youtubeExtract -->
+        <test-method status="PASS" signature="spotifyInput()[pri:0, instance:excecute.com.Exceuter@573f2bb1]" name="spotifyInput" duration-ms="79546" started-at="2019-08-26T21:02:37Z" finished-at="2019-08-26T21:03:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- spotifyInput -->
+      </class> <!-- excecute.com.Exceuter -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

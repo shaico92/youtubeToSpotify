@@ -1,0 +1,30 @@
+<root>
+
+
+
+<!-- set the values required in order to continue -->
+
+	<Logs>C:\Users\shai\eclipse-workspace\ExtractSongsAndExport\Logs</Logs>
+
+	<drivers>
+	<chrome>C:\Users\shai\eclipse-workspace\seleniumLibs\libs</chrome>
+	<gecko>C:\Users\shai\eclipse-workspace\ExtractSongsAndExport</gecko>
+	</drivers>
+	<youtube>
+		<folder>עבודה עברית</folder>	
+		<link>https://www.youtube.com/</link>	
+		<username>shaico92@gmail.com</username>
+		<password>18sh30cq</password>
+		<!-- <username>shaico92@gmail.com</username> -->
+		<!-- <password>18sh30cq</password> -->
+	</youtube>
+	
+	<spotify>
+		<folder>חדש</folder>
+		<link>https://open.spotify.com</link>
+		<username>shaico92@gmail.com</username>
+		<password>18sh30cq</password>
+		<!-- <username>shaico92@gmail.com</username> -->
+		<!-- <password>18sh30cq</password> -->
+	</spotify>
+	<DBPath>C:\sqlite\db</DBPath></root>
